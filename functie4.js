@@ -1,6 +1,9 @@
-function hello (qty){
-	for (i= 0; i < qty; i++ ) {
-		alert(); "hello world"
+
+function getal () {
+	var nummer = prompt("welk getal wil je weten");
+	for (var i = 0; i <= nummer i++) { 
+		document.write(1 * nummer);
 		
 	}
+
 }
